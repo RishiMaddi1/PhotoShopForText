@@ -3,7 +3,8 @@ MoveText is a Flutter application that allows users to dynamically add, customiz
 
 **Here is a demo video:**
 
-[![Custom Image](https://i.imgur.com/example.jpg)](https://www.youtube.com/watch?v=5iHjXAnZuxQ)
+[![Custom Image](https://i.postimg.cc/HngHmmLV/Whats-App-Image-2024-08-03-at-09-25-00-d3459fa3.jpg)](https://www.youtube.com/watch?v=5iHjXAnZuxQ)
+
 
 
 
