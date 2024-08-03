@@ -1,6 +1,10 @@
 # PhotoShopForText
 MoveText is a Flutter application that allows users to dynamically add, customize, and move text widgets within a designated area. The app offers features such as font selection, size adjustment, color picking, and undo/redo functionalities.
 
+**Here is a demo video:**
+
+[![Demo Video](https://img.youtube.com/vi/5iHjXAnZuxQ/maxresdefault.jpg)]([https://www.youtube.com/watch?v=vo8sRVreino](https://youtu.be/5iHjXAnZuxQ))
+
 ## Features
 Add Text: Users can add text widgets to the canvas by entering text in a dialog box.
 Customize Text: Users can change the font, size, and color of the selected text widget.
