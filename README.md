@@ -3,7 +3,8 @@ MoveText is a Flutter application that allows users to dynamically add, customiz
 
 **Here is a demo video:**
 
-[![Demo Video](https://img.youtube.com/vi/5iHjXAnZuxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=5iHjXAnZuxQ)
+[![Custom Image](https://i.imgur.com/example.jpg)](https://www.youtube.com/watch?v=5iHjXAnZuxQ)
+
 
 ## Features
 Add Text: Users can add text widgets to the canvas by entering text in a dialog box.
